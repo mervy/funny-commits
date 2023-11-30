@@ -1,0 +1,54 @@
+Aqui estão alguns exemplos de emoticons que você pode usar na forma `::emoticon::`:
+
+1. `:smile:` - Representa um rosto sorridente.
+2. `:laugh:` - Representa risadas.
+3. `:blush:` - Representa um rosto avermelhado, geralmente usado para expressar emoções positivas.
+4. `:smiley:` - Representa um rosto sorridente com olhos grandes.
+5. `:relaxed:` - Representa um rosto relaxado.
+6. `:smirk:` - Representa um rosto sorridente com um olho fechado.
+7. `:heart_eyes:` - Representa um rosto com olhos grandes e corações.
+8. `:kissing_heart:` - Representa um rosto beijando com corações.
+9. `:kissing_closed_eyes:` - Representa um rosto beijando com os olhos fechados.
+10. `:flushed:` - Representa um rosto avermelhado.
+11. `:relieved:` - Representa um rosto aliviado.
+12. `:satisfied:` - Representa um rosto satisfeito.
+13. `:grin:` - Representa um rosto sorridente com dentes.
+14. `:wink:` - Representa um rosto sorridente com um olho pisando.
+15. `:stuck_out_tongue:` - Representa um rosto com a língua para fora.
+16. `:stuck_out_tongue_winking_eye:` - Representa um rosto com a língua para fora e um olho pisando.
+17. `:grinning:` - Representa um rosto sorridente com dentes.
+18. `:kissing:` - Representa um rosto beijando.
+19. `:kissing_smiling_eyes:` - Representa um rosto beijando com olhos sorridentes.
+20. `:stuck_out_tongue_closed_eyes:` - Representa um rosto com a língua para fora e os olhos fechados.
+21. `:sleeping:` - Representa um rosto dormindo.
+22. `:worried:` - Representa um rosto preocupado.
+23. `:frowning:` - Representa um rosto frisando.
+24. `:anguished:` - Representa um rosto angustiado.
+25. `:open_mouth:` - Representa um rosto com a boca aberta.
+26. `:grimacing:` - Representa um rosto grimacendo.
+27. `:confused:` - Representa um rosto confuso.
+28. `:hushed:` - Representa um rosto em silêncio.
+29. `:expressionless:` - Representa um rosto sem expressão.
+30. `:unamused:` - Representa um rosto desinteressado.
+31. `:sweat_smile:` - Representa um rosto sorridente com suor.
+32. `:sweat:` - Representa um rosto com suor.
+33. `:disappointed_relieved:` - Representa um rosto desapontado e aliviado.
+34. `:weary:` - Representa um rosto cansado.
+35. `:tired_face:` - Representa um rosto cansado.
+36. `:fearful:` - Representa um rosto assustado.
+37. `:cold_sweat:` - Representa um rosto suado frio.
+38. `:persevere:` - Representa um rosto persistente.
+39. `:triumph:` - Representa um rosto triunfante.
+40. `:disappointed:` - Representa um rosto desapontado.
+41. `:angry:` - Representa um rosto irritado.
+42. `:rage:` - Representa um rosto em raiva.
+43. `:pensive:` - Representa um rosto pensativo.
+44. `:confounded:` - Representa um rosto confuso.
+45. `:frowning2:` - Representa um rosto frisando.
+46. `:cry:` - Representa um rosto chorando.
+47. `:sob:` - Representa um rosto chorando com um lenço.
+48. `:joy:` - Representa um rosto de alegria.
+49. `:astonished:` - Representa um rosto surpreso.
+50. `:scream:` - Representa um rosto gritando.
+
+Esses são apenas alguns exemplos de emoticons que você pode usar na forma `::emoticon::`. Existem muitos outros emoticons disponíveis que você pode usar para expressar uma variedade de emoções e sentimentos [Source 2](https://barbearia.org/o-guia-completo-para-usar-emoticons-no-dia-a-dia/).
